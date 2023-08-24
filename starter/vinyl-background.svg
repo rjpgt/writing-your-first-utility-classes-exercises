@@ -1,0 +1,35 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_253_991)">
+<circle cx="0.00065136" cy="0.000163078" r="6.16667" stroke="white"/>
+<circle cx="0.000325441" cy="8.13007e-05" r="0.833333" stroke="white"/>
+<circle cx="60.0007" cy="0.000163078" r="6.16667" stroke="white"/>
+<circle cx="60.0003" cy="8.13007e-05" r="0.833333" stroke="white"/>
+<circle cx="120.001" cy="0.000163078" r="6.16667" stroke="white"/>
+<circle cx="120" cy="8.13007e-05" r="0.833333" stroke="white"/>
+<circle cx="0.00065136" cy="60.0002" r="6.16667" stroke="white"/>
+<circle cx="0.000325441" cy="60.0001" r="0.833333" stroke="white"/>
+<circle cx="60.0007" cy="60.0002" r="6.16667" stroke="white"/>
+<circle cx="60.0003" cy="60.0001" r="0.833333" stroke="white"/>
+<circle cx="0.00065136" cy="120" r="6.16667" stroke="white"/>
+<circle cx="0.000325441" cy="120" r="0.833333" stroke="white"/>
+<circle cx="60.0007" cy="120" r="6.16667" stroke="white"/>
+<circle cx="60.0003" cy="120" r="0.833333" stroke="white"/>
+<circle cx="120.001" cy="120" r="6.16667" stroke="white"/>
+<circle cx="120" cy="120" r="0.833333" stroke="white"/>
+<circle cx="120.001" cy="60.0002" r="6.16667" stroke="white"/>
+<circle cx="120" cy="60.0001" r="0.833333" stroke="white"/>
+<circle cx="30.0007" cy="30.0002" r="6.16667" stroke="white"/>
+<circle cx="30.0003" cy="30.0001" r="0.833333" stroke="white"/>
+<circle cx="90.0006" cy="30.0002" r="6.16667" stroke="white"/>
+<circle cx="90.0003" cy="30.0001" r="0.833333" stroke="white"/>
+<circle cx="30.0007" cy="90.0002" r="6.16667" stroke="white"/>
+<circle cx="30.0003" cy="90.0001" r="0.833333" stroke="white"/>
+<circle cx="90.0006" cy="90.0002" r="6.16667" stroke="white"/>
+<circle cx="90.0003" cy="90.0001" r="0.833333" stroke="white"/>
+</g>
+<defs>
+<clipPath id="clip0_253_991">
+<rect width="120" height="120" fill="white"/>
+</clipPath>
+</defs>
+</svg>
