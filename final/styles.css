@@ -119,6 +119,10 @@ footer {
   margin-inline: auto;
 }
 
+.img-wrapper {
+  max-width: 500px;
+}
+
 /* APPEARANCE UTILITIES */
 
 .title {
@@ -154,7 +158,7 @@ footer {
 }
 
 .odyssey-background {
-  background-image: url(./vinyl-background.svg);
+  background-image: url(./cd-background.svg);
   background-repeat: repeat;
 }
 
@@ -163,7 +167,7 @@ footer {
 }
 
 .odyssey-scrollbars::-webkit-scrollbar-track {
-  background: #dedede;
+  background: #ffebee;
 }
 
 .odyssey-scrollbars::-webkit-scrollbar-thumb {
