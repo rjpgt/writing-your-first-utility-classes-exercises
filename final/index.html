@@ -18,7 +18,7 @@
     <input class="border-radius" type="search" placeholder="e.g., nirvana nevermind" />
   </header>
   <nav class="bg-dark">
-    <ul class="flex-row padding-h-4 text-center odyssey-background">
+    <ul class="flex-row padding-h-4 text-center">
       <li class="bg-gray-2 padding-v-2 padding-h-4 vertical-center-align">
         <a href="">
           <p>Home</p>
@@ -42,14 +42,13 @@
     </ul>
   </nav>
   <main class="padding-h-4 padding-v-2">
-    <div class="odyssey-background"></div>
     <h2 class="title">
       Albums of 2023
     </h2>
     <hr />
 
-    <div class="padding-v-2 odyssey-stack">
-      <div class="img-wrapper">
+    <div class="padding-v-2 grid">
+      <div>
         <img class="square-aspect-ratio" src="https://component-odyssey.s3.amazonaws.com/evelyn-hunter-ophelia.jpg"
           alt="Evelyn Hunter album cover" />
         <div class="flex-row space-between padding-v-2">
@@ -62,7 +61,7 @@
           </div>
         </div>
       </div>
-      <div class="img-wrapper">
+      <div>
         <img class="square-aspect-ratio"
           src="https://component-odyssey.s3.amazonaws.com/fastfall-the-ebon-enigmatique.png"
           alt="Fastfall album cover" />
@@ -74,7 +73,7 @@
           <div><button class="odyssey-button" data-color="red" data-size="small">Learn More</button></div>
         </div>
       </div>
-      <div class="img-wrapper">
+      <div>
         <img class="square-aspect-ratio" src="https://component-odyssey.s3.amazonaws.com/jakayla-toney-self-titled.jpg"
           alt="Jakalya Toney album cover" />
         <div class="flex-row space-between padding-v-2">
@@ -85,7 +84,7 @@
           <div><button class="odyssey-button" data-color="red" data-size="small">Learn More</button></div>
         </div>
       </div>
-      <div class="img-wrapper">
+      <div>
         <img class="square-aspect-ratio" src="https://component-odyssey.s3.amazonaws.com/romy-melny-nature.jpg"
           alt="Romy Melny album cover" />
         <div class="flex-row space-between padding-v-2">
@@ -96,7 +95,7 @@
           <div><button class="odyssey-button" data-color="red" data-size="small">Learn More</button></div>
         </div>
       </div>
-      <div class="img-wrapper">
+      <div>
         <img class="square-aspect-ratio" src="https://component-odyssey.s3.amazonaws.com/w95-959595.wav.png"
           alt="95 album cover" />
         <div class="flex-row space-between padding-v-2">
@@ -109,7 +108,7 @@
           </div>
         </div>
       </div>
-      <div class="img-wrapper">
+      <div>
         <img class="square-aspect-ratio" src="https://component-odyssey.s3.amazonaws.com/sable-dirge.png"
           alt="Sable album cover" />
         <div class="flex-row space-between padding-v-2">
@@ -125,31 +124,22 @@
       <button class="odyssey-button" data-color="red">View All</button>
     </div>
   </main>
-  <footer>
-    <nav class="bg-dark">
-      <ul class="odyssey-stack odyssey-background">
-        <li class="bg-dark padding-v-2 padding-h-4 vertical-center-align fit-content m-auto">
-          <a href="">
-            <p>Home</p>
-          </a>
-        </li>
-        <li class="bg-dark padding-v-2 padding-h-4 vertical-center-align fit-content m-auto">
-          <a href="">
-            <p>Top 40</p>
-          </a>
-        </li>
-        <li class="bg-dark padding-v-2 padding-h-4 vertical-center-align fit-content m-auto">
-          <a href="">
-            <p>Artists</p>
-          </a>
-        </li>
-        <li class="bg-dark padding-v-2 padding-h-4 vertical-center-align fit-content m-auto">
-          <a href="">
-            <p>Songs</p>
-          </a>
-        </li>
-      </ul>
-    </nav>
+  <footer class="bg-dark padding-v-4 odyssey-stack odyssey-background text-center">
+    <a class="bg-dark m-auto" href="">
+      Home
+    </a>
+
+    <a class="bg-dark m-auto" href="">
+      Top 40
+    </a>
+
+    <a class="bg-dark m-auto" href="">
+      Artists
+    </a>
+
+    <a class="bg-dark m-auto" href="">
+      Songs
+    </a>
   </footer>
 </body>
 
