@@ -24,8 +24,6 @@ Start the server:
 
 The README within `starter` has more details about the exercises, so be sure to read the instructions.
 
-Repeat the above process for every single exercise.
-
 ## Troubleshooting
 
 If you have any problems, then please reach out in the Discord.
