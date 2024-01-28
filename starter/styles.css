@@ -153,6 +153,9 @@ footer {
 
 /* Task 1 */
 .odyssey-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
 }
 
 /* Task 2 */
