@@ -160,6 +160,9 @@ footer {
 
 /* Task 2 */
 .odyssey-background {
+  background-color: var(--odyssey-background-color-fallback, #000000);
+  background-image: url(./cd-background.svg);
+  background-repeat: repeat;
 }
 
 /* Task 3 */
