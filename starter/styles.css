@@ -167,12 +167,20 @@ footer {
 
 /* Task 3 */
 .odyssey-scrollbars::-webkit-scrollbar {
+  width: 16px;
 }
 
 .odyssey-scrollbars::-webkit-scrollbar-track {
+  background-color: var(--odyssey-scrollbars-track-background-color, #ffebee);
 }
 
 .odyssey-scrollbars::-webkit-scrollbar-thumb {
+  background-color: var(--odyseey-scrollbars-thumb-background-color, #e00034);
+}
+
+.odyssey-firefox-scrollbar {
+  scrollbar-color: var(--odyseey-scrollbars-thumb-background-color, #e00034) var(--odyssey-scrollbars-track-background-color, #ffebee);
+  scrollbar-width: auto;
 }
 
 /* Task 4 */
